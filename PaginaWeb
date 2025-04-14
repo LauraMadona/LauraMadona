@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Laura Madona</title>
+    <style>
+        body {
+            font-family: Georgia, serif;
+            background-color: #fefefe;
+            color: #333;
+            line-height: 1.6;
+            padding: 20px;
+            max-width: 900px;
+            margin: auto;
+        }
+        h1, h2 {
+            color: #006666;
+        }
+        .section {
+            margin-bottom: 40px;
+        }
+        .contact {
+            font-weight: bold;
+            font-size: 20px;
+            color: #cc5500;
+        }
+        .divider {
+            border-top: 1px solid #ccc;
+            margin: 40px 0;
+        }
+        em {
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Laura Madona</h1>
+    <h2>Costellatrice Familiare Individuale e Counselor</h2>
+    <p>Educatrice Mindfulness con i bambini<br>Operatrice Reiki</p>
+
+    <div class="section">
+        <h2>Chi Sono</h2>
+        <p>Sono una donna che ha scelto di mettere il proprio cammino al servizio di qualcosa di più grande. Conduco ogni incontro con ascolto sincero, accoglienza profonda e fiducia nella vita, anche quando sembra sussurrare anziché parlare. Credo nel potere del “campo” – quelle forze invisibili che ci guidano oltre la mente – e onoro il valore unico di ogni storia personale.</p>
+        <p>Sono grata ai Maestri che ho incontrato lungo la via: ognuno ha piantato un seme che oggi fiorisce nel mio lavoro come Counselor professionista associata Aspin. Offro uno spazio sicuro e autentico, dove riscoprire la propria verità interiore e camminare verso una vita più consapevole, libera e piena d’Amore.</p>
+    </div>
+
+    <div class="section">
+        <h2>Costellazioni Familiari Individuali</h2>
+        <p><strong>Un Viaggio di Trasformazione, Riconnessione e Rinnovamento.</strong></p>
+        <p>Le Costellazioni Familiari Individuali offrono l’opportunità di liberarti da antichi blocchi emozionali, di risolvere traumi irrisolti e di trasformare gli schemi che influenzano la tua vita. Attraverso il corpo, che custodisce le memorie più profonde, potrai riconnetterti con la tua energia vitale e con la forza di chi ti ha preceduto.</p>
+        <p>Questa pratica ti aiuterà a prendere coscienza di ciò che ti trattiene. La tua luce è già dentro di te: è ora di farla fiorire.</p>
+    </div>
+
+    <div class="section">
+        <h2>Come Lavoro negli Incontri Individuali</h2>
+        <p>Il mio approccio è profondo e lento, guidato dall’ascolto del corpo e delle emozioni, lontano dai meccanismi mentali. Nei nostri incontri potrai lavorare su qualsiasi tema: personale, relazionale, traumatico o professionale, per riconnetterti con il tuo scopo di vita, il tuo “daimon”, come lo definiva James Hillman.</p>
+        <p>Attraverso le Costellazioni Familiari Individuali, potrai accedere all’essenza di blocchi inconsci, trasformarli e ritrovare benessere.</p>
+    </div>
+
+    <div class="section">
+        <h2>Mindfulness per Bambini</h2>
+        <p><strong>Crescere con Consapevolezza e Serenità</strong></p>
+        <p>La Mindfulness è uno strumento efficace per aiutare i bambini a ritrovare calma, migliorare la concentrazione e sviluppare una relazione autentica con sé stessi. Accompagna nella gestione delle emozioni e nelle difficoltà relazionali, con un approccio giocoso e creativo.</p>
+        <ul>
+            <li>Giochi, storie, musica e arte</li>
+            <li>Tecniche di respiro e ascolto del corpo</li>
+            <li>Empatia e gentilezza</li>
+            <li>Percorsi personalizzati</li>
+            <li>Coinvolgimento dei genitori</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Reiki</h2>
+        <p><strong>Armonia ed Energia per un Benessere Profondo</strong></p>
+        <p>Il Reiki è un’antica pratica di riequilibrio energetico che porta calma, rilassamento e guarigione interiore.</p>
+        <p><strong>Benefici:</strong></p>
+        <ul>
+            <li>Rilassa profondamente e riduce lo stress</li>
+            <li>Scioglie blocchi energetici ed emozionali</li>
+            <li>Rafforza l’intuito e il contatto con la propria essenza</li>
+            <li>Sostiene la crescita personale e spirituale</li>
+        </ul>
+        <p><strong>Cosa offro:</strong></p>
+        <ul>
+            <li>Trattamenti Reiki individuali</li>
+            <li>Reiki prima delle Costellazioni Familiari</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Ogni Viaggio Inizia con un Sì</h2>
+        <p>Ci sono momenti nella vita in cui una voce sottile ci invita a fermarci e ascoltarci. Se senti il bisogno di chiarezza, di connessione o semplicemente di presenza autentica, io sono qui.</p>
+        <p class="contact">Scrivimi a: <a href="mailto:lauramadona.88@gmail.com">lauramadona.88@gmail.com</a></p>
+    </div>
+
+    <div class="divider"></div>
+
+    <div class="section">
+        <h2>Rileggere la Propria Vita con Consapevolezza</h2>
+        <p><em>Prima di salutarci, ti invito a fermarti un attimo.</em></p>
+        <p>Se guardassi la tua storia con occhi nuovi, cosa vedresti davvero?<br> Forse scopriresti forze dimenticate o nuove strade da intraprendere. Guardarsi con gentilezza è il primo passo verso una trasformazione profonda.</p>
+        <p><strong>E se questo sguardo ti tocca, sono qui.</strong></p>
+    </div>
+
+</body>
+</html>
